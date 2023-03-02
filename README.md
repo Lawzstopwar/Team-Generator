@@ -63,22 +63,12 @@ As a manager a user want to generate a webpage that displays my team's basic inf
 
 ---
 
-## Mock-Up
 
-The following image shows a mock-up of the generated HTML’s appearance and functionality:
+# Appearance
+[Team-Generator](./assets/Team-generator.png)
 
-![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./Assets/14-object-oriented-programming-challenge-demo.png)
-
-
-
----
-
-# Getting Started
-
-This Challenge will combine many of the skills we've covered so far. In addition to the User Story and Acceptance Criteria, we’ve provided some guidelines to help get started.
 
 # Application used
-
  [Jest](https://www.npmjs.com/package/jest) for running the unit tests and [Inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user. The application will be invoked by using the following command:
 
 ```bash
