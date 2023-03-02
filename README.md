@@ -65,7 +65,12 @@ As a manager a user want to generate a webpage that displays my team's basic inf
 
 
 # Appearance
+[Deploy Link](https://lawzstopwar.github.io/Team-Profile-Generator/)
+
+
 [Team-Generator](./assets/Team-generator.png)
+![](./assets/Team-generator.png)
+
 
 
 # Application used
